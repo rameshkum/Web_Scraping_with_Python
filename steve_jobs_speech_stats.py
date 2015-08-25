@@ -1,5 +1,6 @@
 # Lists YouTube statistics of Steve Jobs 2005 Speech
 # Todo's: find likes and dislikes count
+# Also print data in a table format with tabs
 
 import requests
 import re
